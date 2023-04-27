@@ -22,3 +22,4 @@ Simple Image Classification
 
 ### Data processing
      * 2500 images or ocr text files including in the data file
+     Downloda the dataset in https://drive.google.com/file/d/1AhWz7XsrR_E3c6SQObRNbiaU8KbBofCw/view?usp=sharing
