@@ -21,4 +21,4 @@
 
 
 ### Data processing
-     * 2500 images or ocr text files including in the data file
+     * 2500 images in images file or a text file containing the OCR data for each image
